@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<factura id="123" fecha="1/15/2017">
+
+  <cliente>
+
+    <nombre>Duane</nombre>
+    <telefono>787-598-4754</telefono>
+
+  </cliente>
+
+  <articulos>
+
+    <articulo id="1">
+      <descripcion>laptop</descripcion>
+      <precio-unitario>400.00</precio-unitario>
+      <precio-final>800.00</precio-final>
+      <cantidad>2</cantidad>
+    </articulo>
+
+    <articulo id="2">
+      <descripcion>impresora</descripcion>
+      <precio-unitario>30.00</precio-unitario>
+      <precio-final>50.00</precio-final>
+      <cantidad>3</cantidad>
+    </articulo>
+  </articulos>
+
+  <precio-total>1750.00</precio-total>
+
+
+</factura>
